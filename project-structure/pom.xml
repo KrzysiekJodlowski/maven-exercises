@@ -29,7 +29,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.3</version>
         <configuration>
-          <mainClass>com.training.training.maven.App</mainClass>
+          <mainClass>com.trainologic.training.maven.App</mainClass>
         </configuration>
       </plugin>
     </plugins>
