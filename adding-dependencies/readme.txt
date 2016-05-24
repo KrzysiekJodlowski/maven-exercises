@@ -3,7 +3,7 @@ This is a basic exercise about adding dependencies. The current version of the A
 Tasks:
 	- Find the artifact coordinates for log4j 1.2.17 in maven central (search.maven.org)
 	- Add the dependency to the pom.
-	- Build it and run it with maven man package exec:java
+	- Build it and run it with maven mvn package exec:java
 	- open your browser at localhost:8888 to see the server
 	- Check the dependencies running the following:
 		mvn dependency:list
